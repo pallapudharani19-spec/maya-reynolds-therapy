@@ -45,10 +45,8 @@ The typography combines an elegant serif style for headings with a clean sans-se
 - CSS
 - Vercel
 
-
 ## 📁 Project Structure
 
-```text
 maya-reynolds-therapy/
 │
 ├── app/
@@ -68,7 +66,6 @@ maya-reynolds-therapy/
 ├── next.config.ts
 ├── tsconfig.json
 └── README.md
-
 
 ## 📱 Responsive Design
 
@@ -135,3 +132,5 @@ Her practice focuses on supporting adults, high-achieving individuals, entrepren
 ## 📄 License
 
 This project was created for internship evaluation and demonstration purposes.
+
+
