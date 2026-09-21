@@ -48,24 +48,25 @@ The typography combines an elegant serif style for headings with a clean sans-se
 ## 📁 Project Structure
 
 maya-reynolds-therapy/
-
+│
 ├── app/
-    ├── page.tsx
-    ├── globals.css
-    └── consultation/
-        └── page.tsx
-
+│   ├── page.tsx
+│   ├── globals.css
+│   └── consultation/
+│       └── page.tsx
+│
 ├── public/
-    └── images/
-        ├── maya.jpg
-        ├── office-1.jpg
-        └── office-2.jpg
-
+│   └── images/
+│       ├── maya.jpg
+│       ├── office-1.jpg
+│       └── office-2.jpg
+│
 ├── package.json
 ├── package-lock.json
 ├── next.config.ts
 ├── tsconfig.json
 └── README.md
+
 
 ## 📱 Responsive Design
 
