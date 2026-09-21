@@ -1,4 +1,3 @@
-@'
 # Maya Reynolds Therapy Website
 
 A responsive therapy website redesign created for Dr. Maya Reynolds, PsyD, a licensed clinical psychologist based in Santa Monica, California.
