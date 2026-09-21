@@ -84,30 +84,54 @@ The layout, typography, navigation, images, and content sections adapt to smalle
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/pallapudharani19-spec/maya-reynolds-therapy.git
 
+
 Navigate into the project:
+
+bash
 cd maya-reynolds-therapy
+
+
 Install dependencies:
+
+bash
 npm install
+
+
 Start the development server:
+
+bash
 npm run dev
-Open:
+
+
+Open the website in your browser:
+
+text
 http://localhost:3000
 
-🚀 Deployment
+
+## 🚀 Deployment
+
 The website is deployed using Vercel and connected to the GitHub repository.
-📌 Project Purpose
+
+## 📌 Project Purpose
+
 This project was created as part of a Front-End Developer Internship selection assignment.
+
 The redesign focuses on transforming the original website into a personalized experience based on Dr. Maya Reynolds' profile, while maintaining a clear, accessible, and responsive user experience.
 
-👤 Therapist Profile
-Dr. Maya Reynolds, PsyD
+## 👤 Therapist Profile
+
+*Dr. Maya Reynolds, PsyD*
+
 Licensed Clinical Psychologist
+
 Santa Monica, California
+
 Her practice focuses on supporting adults, high-achieving individuals, entrepreneurs, creatives, and professionals experiencing concerns such as anxiety, panic, trauma, burnout, and perfectionism.
 
-📄 License
-This project was created for internship evaluation and demonstration purposes.
+## 📄 License
 
+This project was created for internship evaluation and demonstration purposes.
