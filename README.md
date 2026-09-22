@@ -49,16 +49,16 @@ The typography combines an elegant serif style for headings with a clean sans-se
 
 <div>maya-reynolds-therapy/</div>
 <div>├── app/</div>
-<div>&nbsp;&nbsp;&nbsp;├── page.tsx</div>
-<div>&nbsp;&nbsp;&nbsp;├── globals.css</div>
-<div>&nbsp;&nbsp;&nbsp;└── consultation/</div>
+<div>&nbsp;&nbsp;&nbsp;  ├── page.tsx</div>
+<div>&nbsp;&nbsp;&nbsp;  ├── globals.css</div>
+<div>&nbsp;&nbsp;&nbsp;  └── consultation/</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── page.tsx</div>
 <div>│</div>
 <div>├── public/</div>
-<div>&nbsp;&nbsp;&nbsp;└── images/</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── maya.jpg</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── office-1.jpg</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── office-2.jpg</div>
+<div>&nbsp;&nbsp;&nbsp;  └── images/</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── maya.jpg</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── office-1.jpg</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── office-2.jpg</div>
 <div>│</div>
 <div>├── package.json</div>
 <div>├── package-lock.json</div>
